@@ -1,4 +1,3 @@
-/* Import Google Font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -11,7 +10,9 @@ body{
   height: 100vh;
   overflow: hidden;
   background-image: url(img-15.jpg);
-  background: linear-gradient(135deg, #4AB1FF, #2D5CFE);
+    background-position: center;
+  background-size: cover;
+  
 }
 ::selection{
   color: #fff;
