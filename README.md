@@ -7,5 +7,5 @@ In this todo app, you can easily add, edit, or delete your task. There are filte
  
 ## Screenshots
 
-![App Screenshot](https://img.youtube.com/vi/2QIMUBilooc/maxresdefault.jpg)
+![App Screenshot](https://github.com/ANTRUMEYE/OIBSIP_LEVEL-2_TASK-3_TO-DO_APP/blob/main/2023-05-19%20(4).png)
 
